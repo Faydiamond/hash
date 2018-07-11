@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+h1 
+{
+    font-family: 'Dancing Script', cursive;
+    color: aqua;
+}
+
+button.btn.btn-info
+{
+    font-family: 'Dancing Script', cursive;
+    border: 2px solid aqua;
+    padding: 10px;
+    border-radius: 50px 20px;
+}
+
+p#Res
+{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 25px;
+}
